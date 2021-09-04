@@ -1,6 +1,6 @@
 # character-recogniser
-This project is recognising the characters from any given image with high precision using maching 
-Learning model KNN(K nearest neighbours).<br>
+This project is recognizing the characters from any given image with high precision using machine
+Learning model KNN(K nearest neighbors).<br>
 Modules used: <br>
 1) Open cv for image reading and processing. <br>
 2) Numpy used for dealing with the image as huge multi-dimensional pixel arrays <br>
